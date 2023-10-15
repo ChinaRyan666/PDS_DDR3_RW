@@ -1,0 +1,1 @@
+vsim -gui -do ctrl_phy_sim.tcl

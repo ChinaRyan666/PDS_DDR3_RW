@@ -1,0 +1,48 @@
+##### Written on 2023/02/09 15:16:58 ###############################
+
+
+##### INFO ##################################################
+
+Current device : 
+	PGL22G-6MBG324
+
+Top Module : 
+	ddr3_rw_top
+
+Constraint File(s) : 
+	E:/PGL22G_KAIFALICHEN/xiugai_ddr_20230209/31_ddr3_rw_top/prj/ddr3_rw_top.fdc
+
+##### SUMMARY ######################################################
+
+Found 0 error(s), 0 critical warning(s), 0 warning(s), out of 458 constraint(s)
+
+
+Inapplicable constraints(except overwritten constraints):
+********************************************
+
+
+
+
+
+
+Constraints with issues:
+********************************************
+
+
+
+
+
+
+
+
+
+
+
+
+Constraints with matching wildcard expressions:
+********************************************
+
+
+
+
+
